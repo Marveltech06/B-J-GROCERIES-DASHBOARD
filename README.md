@@ -11,7 +11,7 @@ Interactive Excel dashboard for B&amp;J Groceries to track sales, revenue, profi
 ## Quick demo / preview
 Here is the snapshot of the dashboard
 ![](Dashboard1.png)
-[downloadhere](
+Click here to interact with the dashboard: [here](B$J_Biscuit_Dashboard1.xlsm)
 ## Key performance indicators (KPIs) and Cards
 Each KPI is implemented as a live cell (card) that reads from the clean data/Pivot/measure.
 - Quantity Sold
@@ -88,6 +88,12 @@ The dashboard combines classic Excel formulas, modern functions, and Power Query
 - Leverage Top Customers: Strengthen relationships with high-value customers like Robert Hernandez through VIP programs.
 - Optimize Regional Pricing: Investigate why Chicago is profitable yet contributes less revenue — adjust pricing or product mix accordingly.
 - Empower Sales Reps: Use Travis Doyle’s sales approach as a best-practice benchmark across the sales team.
+
+  ## 👨‍💻 Author
+### Folagbade Olatunbosun Samuel
+- 💼 LinkedIn:https://www.linkedin.com/in/olatunbosun-folagbade-559151243/
+- 📧 Email:Folagbadeolatunbosun@gmail.com
+
 
 
 
