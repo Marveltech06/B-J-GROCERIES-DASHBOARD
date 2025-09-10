@@ -26,12 +26,14 @@ Each KPI is implemented as a live cell (card) that reads from the clean data/Piv
 - Location
 - Age Group
 ## Data — raw & clean
-**Raw Data**                  |             **Cleaned Data**
-original transaction data.         cleaned and enriched dataset for the dashboard.
-![](Raw Data.xlsx)            |             ![](
+**Raw Data**                               
+original transaction data.
+![](Raw_data.png) 
+[Downloadhere](Raw Data.xlsx)
 
-
-
+**Cleaned Data**
+cleaned and enriched dataset for the dashboard.
+![](Cleaned_data.png)
 
 
 
